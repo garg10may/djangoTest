@@ -6,4 +6,4 @@ from models import *
 
 
 admin.site.register(Album)
-admin.site.register(Music)
+admin.site.register(Song)
